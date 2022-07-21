@@ -1,0 +1,11 @@
+C:\Users\ryan.robinson\RiderProjects\Bowling_Kata\Tests\bin\Debug\Tests.dll
+C:\Users\ryan.robinson\RiderProjects\Bowling_Kata\Tests\bin\Debug\Tests.pdb
+C:\Users\ryan.robinson\RiderProjects\Bowling_Kata\Tests\bin\Debug\Bowling_Kata.dll
+C:\Users\ryan.robinson\RiderProjects\Bowling_Kata\Tests\bin\Debug\nunit.framework.dll
+C:\Users\ryan.robinson\RiderProjects\Bowling_Kata\Tests\bin\Debug\Bowling_Kata.pdb
+C:\Users\ryan.robinson\RiderProjects\Bowling_Kata\Tests\bin\Debug\nunit.framework.xml
+C:\Users\ryan.robinson\RiderProjects\Bowling_Kata\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\ryan.robinson\RiderProjects\Bowling_Kata\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\ryan.robinson\RiderProjects\Bowling_Kata\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\ryan.robinson\RiderProjects\Bowling_Kata\Tests\obj\Debug\Tests.dll
+C:\Users\ryan.robinson\RiderProjects\Bowling_Kata\Tests\obj\Debug\Tests.pdb

@@ -1,0 +1,6 @@
+C:\Users\ryan.robinson\RiderProjects\Bowling_Kata\Bowling_Kata\bin\Debug\Bowling_Kata.dll
+C:\Users\ryan.robinson\RiderProjects\Bowling_Kata\Bowling_Kata\bin\Debug\Bowling_Kata.pdb
+C:\Users\ryan.robinson\RiderProjects\Bowling_Kata\Bowling_Kata\obj\Debug\Bowling_Kata.csproj.AssemblyReference.cache
+C:\Users\ryan.robinson\RiderProjects\Bowling_Kata\Bowling_Kata\obj\Debug\Bowling_Kata.csproj.CoreCompileInputs.cache
+C:\Users\ryan.robinson\RiderProjects\Bowling_Kata\Bowling_Kata\obj\Debug\Bowling_Kata.dll
+C:\Users\ryan.robinson\RiderProjects\Bowling_Kata\Bowling_Kata\obj\Debug\Bowling_Kata.pdb
